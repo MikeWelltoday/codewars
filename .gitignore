@@ -24,3 +24,8 @@ yarn-error.log*
 
 # idea
 /.idea
+
+# tests
+index.html
+test.js
+test.ts
